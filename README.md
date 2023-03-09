@@ -10,7 +10,7 @@ Stormspotter creates an “attack graph” of the resources in an Azure subscrip
 
 # Installation
 
-## With Docker
+## With Docker (do it with docker, pls)
 
 Most users may find it easier to install Stormspotter via Docker. This is the recommended method.
 
